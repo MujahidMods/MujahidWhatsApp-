@@ -4,7 +4,7 @@
     "reminder_time": "5",
     "update_version": "v90.30",
     "com.whatsapp": "https://update.gold/updateplus",
-    "com.WhatsApp2Plus": "https://update.gold/updategold",
+    "com.WhatsApp2Plus": "https://t.me/MujahidWhatsApp/393",
     "com.WhatsApp3Plus": "https://update.gold/updatered",
     "com.WhatsApp4Plus": "https://update.gold/updateblue",
     "com.WhatsApp5Plus": "https://update.gold/updateblack",
