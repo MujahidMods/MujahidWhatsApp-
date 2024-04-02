@@ -1,7 +1,7 @@
 {
   "Gold": {
-    "update_code": "5",
-    "reminder_time": "5",
+    "update_code": "9",
+    "reminder_time": "9",
     "update_version": "v90.30",
     "com.whatsapp": "https://update.gold/updateplus",
     "com.WhatsApp2Plus": "https://t.me/MujahidWhatsApp/393",
